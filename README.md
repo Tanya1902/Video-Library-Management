@@ -6,4 +6,9 @@ The librarian will consume less time in generating correct record of transaction
 The data will be stored in binary files and will be easily restored whenever required as the system is made very user friendly.This system will reduce manual work , calculations and will also provide periodic reports at anytime.
 
 Some snapshots:
-![Alt text](https://i.imgur.com/qBN25yG.jpg "Initial screen")
+![Alt text](https://i.imgur.com/qBN25yG.jpg "Initial menu screen")
+![Alt text](https://i.imgur.com/FRNRWmK.jpeg "CD/DVD Management screen")
+![Alt text](https://i.imgur.com/uFUnSRf.jpeg "Member Management screen")
+![Alt text](https://i.imgur.com/Tpi9A6i.jpeg "Transaction screen")
+![Alt text](https://i.imgur.com/HFDyBZZ.jpeg "Issue/Return dates screen")
+![Alt text](https://i.imgur.com/pU8a5rF.jpeg "Report screen")
