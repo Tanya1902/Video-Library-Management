@@ -6,3 +6,4 @@ The librarian will consume less time in generating correct record of transaction
 The data will be stored in binary files and will be easily restored whenever required as the system is made very user friendly.This system will reduce manual work , calculations and will also provide periodic reports at anytime.
 
 Some snapshots:
+![Alt text](https://i.imgur.com/qBN25yG.jpg "Initial screen")
